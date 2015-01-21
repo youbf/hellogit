@@ -5,6 +5,5 @@ public class Test {
 		System.out.println("newout2");
 		System.out.println("master");
 		System.out.println("test");
-		
-	}
+		System.out.println("This is from mac");
 }
